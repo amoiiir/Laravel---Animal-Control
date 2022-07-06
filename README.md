@@ -1,6 +1,6 @@
 # Laravel---Animal-Control
 
-##Introduction
+## Introduction
 As a student in International Islamic University Malaysia (IIUM) which resides near mountains and forest, it is not a new thing to see wild animals like alligators, monkeys, dogs, snakes, etc. roaming around the campus facilities. Some of them are tame and do not bring harm to the students such as cats but some might be dangerous and need to take quick action before it harms any student. Our goal for this project is to make a website that could notify the authorities as soon as possible when there are any issues with these wild animals. Features that are included in this project is reporting any wild animals sighted, donations for animals that require medical assistance and adoption.
 
 ## MVC used 
@@ -25,7 +25,7 @@ As a student in International Islamic University Malaysia (IIUM) which resides n
   *adoptDetails.blade.php (Students)
   *viewAdopt.blade.php (Runner)
   
-  ###Controller
+  ### Controller
   1. reportController
   2. donationController
   3. adoptController
