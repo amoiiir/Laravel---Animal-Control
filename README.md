@@ -13,17 +13,17 @@ As a student in International Islamic University Malaysia (IIUM) which resides n
 
 ### View
 1. Report
-  *reportPage.blade.php (Students)
-  *reportDetails.blade.php (Students)
-  *viewReport.blade.php (Runner)
+  * reportPage.blade.php (Students)
+  * reportDetails.blade.php (Students)
+  * viewReport.blade.php (Runner)
 2. Donation
-  *donationPage.blade.php (Students)
-  *donationDetails.blade.php (Students)
-  *viewDonation.blade.php (Runner)
+  * donationPage.blade.php (Students)
+  * donationDetails.blade.php (Students)
+  * viewDonation.blade.php (Runner)
 3. Adoption
-  *adoptPage.blade.php (Students)
-  *adoptDetails.blade.php (Students)
-  *viewAdopt.blade.php (Runner)
+  * adoptPage.blade.php (Students)
+  * adoptDetails.blade.php (Students)
+  * viewAdopt.blade.php (Runner)
   
   ### Controller
   1. reportController
